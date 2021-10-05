@@ -1,5 +1,5 @@
 # Time_Series
-Two time series projects
+Two time series projects:
 
 1. **Predicting Google stock in 2017** (*straight forward* regression model)
   First attempt of an *RNN* project, the data was not extremely easy to predict, but it was reasaonable. The main concepts implemented are *preprocessing* with *pandas* and *sklearn* as well as learning with RNN's that contain *LSTM cells* and *dropout layers*.
